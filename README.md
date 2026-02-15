@@ -20,5 +20,4 @@ USD, EUR, GBP, JPY, AUD, CAD, CHF, CNY, INR, PKR, SGD, SAR, AED, KRW, MYR, LIRA,
 
 Run on Python to get Benefit.
 
-Deeveloped by **Ehtisham**
-
+Developed by **Ehtisham**
