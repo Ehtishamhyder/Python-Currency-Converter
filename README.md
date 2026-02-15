@@ -1,5 +1,4 @@
 <img width="1351" height="186" alt="Output of Python-currency-converter" src="https://github.com/user-attachments/assets/82b173b8-9ab4-4c39-a46a-76083a81d224" />
-<img width="1395" height="803" alt="Output of Python Currency Converter" src="https://github.com/user-attachments/assets/608ff91c-99f3-446c-85e0-378d8b8d54d4" />
 # Currency Converter (Python)
 
 ## Overview
