@@ -18,6 +18,11 @@ multiple international currencies using predefined exchange rates.
 
 USD, EUR, GBP, JPY, AUD, CAD, CHF, CNY, INR, PKR, SGD, SAR, AED, KRW, MYR, LIRA, KWD, EGP, BDT, LKR.
 
+**Developed for practical implementation of Python fundamentals
+and real-world problem-solving practice.**
+
+
+
 Run on Python to get Benefit.
 
 Developed by **Ehtisham**
